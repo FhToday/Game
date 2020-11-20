@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\MACHENIKE\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\MACHENIKE\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Game.103276364.00" t="ExcludeRecursive" />
+    <e p="D:\学习\CS\面向对象\Project\网络实战：教程资源\Unity3D网络游戏实战（第二版）\Unity3D网络游戏实战（第二版）\Chapter12\Server\Game" t="IncludeFlat">
+      <e p="Game" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Game.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="script" t="Include">
+          <e p="db" t="Include">
+            <e p="DbManager.cs" t="Include" />
+          </e>
+          <e p="logic" t="Include">
+            <e p="BattleMsgHandle.cs" t="Include" />
+            <e p="cardData.cs" t="Include" />
+            <e p="EventHandler.cs" t="Include" />
+            <e p="LoginMsgHandle.cs" t="Include" />
+            <e p="NotepadMsgHandle.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="PlayerData.cs" t="Include" />
+            <e p="PlayerManager.cs" t="Include" />
+            <e p="PlayerMsgHandle.cs" t="Include" />
+            <e p="Room.cs" t="Include" />
+            <e p="RoomManager.cs" t="Include" />
+            <e p="RoomMsgHandle.cs" t="Include" />
+            <e p="serverCreater.cs" t="Include" />
+            <e p="SyncMsgHandle.cs" t="Include" />
+            <e p="SysMsgHandler.cs" t="Include" />
+            <e p="User.cs" t="Include" />
+          </e>
+          <e p="net" t="Include">
+            <e p="ByteArray.cs" t="Include" />
+            <e p="ClientState.cs" t="Include" />
+            <e p="MsgBase.cs" t="Include" />
+            <e p="NetManager.cs" t="Include" />
+          </e>
+          <e p="proto" t="Include">
+            <e p="BattleMsg.cs" t="Include" />
+            <e p="LoginMsg.cs" t="Include" />
+            <e p="NotepadMsg.cs" t="Include" />
+            <e p="PlayerMsg.cs" t="Include" />
+            <e p="RoomMsg.cs" t="Include" />
+            <e p="SyncMsg.cs" t="Include" />
+            <e p="SysMsg.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Game.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
